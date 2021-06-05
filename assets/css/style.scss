@@ -1,10 +1,14 @@
 ---
 ---
 
+/* Override from
+    <https://github.com/pages-themes/minimal/blob/master/_sass/jekyll-theme-minimal.scss>
+*/
+
 @import "{{ site.theme }}";
 
 a:hover, a:focus {
     color:#267CB9;
     text-decoration: underline;
-    font-weight: normal;
+    font-weight: inherit;
 }
