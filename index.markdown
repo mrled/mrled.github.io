@@ -6,7 +6,7 @@ This is my GitHub Pages site.
 
 This site holds documentation for some of my projects:
 
-* [lability-tutorial](/lability-tutorial): A tutorial for the Lability lab VM management package
-* [trappedbot API docs](/trappedbot): Documentation for my [trappedbot](https://github.com/mrled/trappedbot) Matrix chat bot written in Python
-* [progfiguration docs](/progfiguration): Documentation for my experimental [progfiguration](https://github.com/mrled/progfiguration) config management tool
-
+* [/lability-tutorial](/lability-tutorial): A tutorial for the Lability lab VM management package
+* [/trappedbot](/trappedbot): API documentation for my [trappedbot](https://github.com/mrled/trappedbot) Matrix chat bot written in Python
+* [/progfiguration](/progfiguration): Documentation for my experimental [progfiguration](https://github.com/mrled/progfiguration) config management tool
+* [/hugo-theme-cistercian](/hugo-theme-cistercian): The exampleSite for my [hugo-theme-cistercian](https://github.com/mrled/hugo-theme-cistercian) Hugo utility theme for displaying Cistercian numerals
